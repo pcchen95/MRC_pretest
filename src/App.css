@@ -1,0 +1,9 @@
+body {
+  width: 1200px;
+  background: #cbcbcb;
+  padding: 50px;
+}
+
+* {
+  box-sizing: border-box;
+}
